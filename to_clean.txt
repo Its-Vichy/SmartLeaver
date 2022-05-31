@@ -1,0 +1,3 @@
+token:id
+
+NOTE: this file is generated from harmony sniper
